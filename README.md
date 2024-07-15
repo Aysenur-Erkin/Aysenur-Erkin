@@ -23,4 +23,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysenur-erkin&" alt="aysenur-erkin" /></p>
 
 
-![snake gif](https://github.com/Aysenur-Erkin/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Aysenur-Erkin/Aysenur-Erkin/blob/output/github-contribution-grid-snake.gif)
