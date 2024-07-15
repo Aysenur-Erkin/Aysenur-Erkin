@@ -1,4 +1,3 @@
-![MasterHead](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Aysenur Erkin</h1>
 <h3 align="center">Aspiring computer engineering student eager to learn</h3>
