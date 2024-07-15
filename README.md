@@ -1,4 +1,4 @@
-[![MasterHead]([https://images.app.goo.gl/8X8pNA3oZFubimzM7](https://tr.pinterest.com/pin/1146940230091530268/))
+[![MasterHead](https://images.app.goo.gl/8X8pNA3oZFubimzM7](https://tr.pinterest.com/pin/1146940230091530268/)
 
 <h1 align="center">Hi 👋, I'm Aysenur Erkin</h1>
 <h3 align="center">Aspiring computer engineering student eager to learn</h3>
