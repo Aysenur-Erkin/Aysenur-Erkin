@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Aysenur Erkin</h1>
 <h3 align="center">Aspiring computer engineering student eager to learn</h3>
 
-- 🔭 I’m currently working on **Android Programming**
+- 🔭 I’m currently working on **Image Processing**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **OpenCV**
 
 - 📝 I regularly write articles on [https://talkbytechtalk.blogspot.com/](https://talkbytechtalk.blogspot.com/)
 
