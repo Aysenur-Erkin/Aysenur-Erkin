@@ -18,7 +18,6 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Final-year **Computer Engineering** student @ **BTÜ**
 - 🔭 Currently exploring **Image Processing & OpenCV**
 - ✍️ I share notes & tutorials on my [blog](https://talkbytechtalk.blogspot.com/)
 - 🌱 Next up: **FastAPI** & **Docker**
