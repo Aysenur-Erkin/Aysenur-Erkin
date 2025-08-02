@@ -45,18 +45,6 @@
 
 ---
 
-### 🚀 Pinned Projects
-| Project | Stack | What it does |
-|---------|-------|--------------|
-| [**finance_manager**](https://github.com/Aysenur-Erkin/finance_manager) | Python · Tkinter · scikit-learn | Track & classify personal expenses with a GUI |
-| [**URL-Shortener**](https://github.com/Aysenur-Erkin/URL-Shortener) | Python · FastAPI · SQLite | TinyURL-style backend with Swagger docs |
-| [**IkinciSans_Backend**](https://github.com/Aysenur-Erkin/IkinciSans_Backend) | Django | REST API for second-hand marketplace |
-| [**IkinciSans_Frontend**](https://github.com/Aysenur-Erkin/IkinciSans_Frontend) | React · Tailwind | Responsive e-commerce front-end |
-| [**Student-Info-System**](https://github.com/Aysenur-Erkin/student-information-system) | Java | CLI app managing students & courses |
-| [**Learning Archive**](https://github.com/Aysenur-Erkin/archive-learning-exercises) | Python · Java | All my small practice files in one repo |
-
----
-
 ### 📊 GitHub Stats
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Aysenur-Erkin&show_icons=true&theme=default&hide_border=true" />
