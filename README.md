@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I’m%20Ayşenur%20👋;Computer%20Engineering%20Student;Image%20Processing%20Enthusiast;Always%20Learning%20🚀&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I’m%20Ayşenur%20👋;Image%20Processing%20Enthusiast;Always%20Learning%20🚀&center=true&width=500&height=50">
 </div>
 
 <p align="center">
