@@ -7,8 +7,8 @@
   <a href="https://github.com/Aysenur-Erkin">
     <img src="https://komarev.com/ghpvc/?username=Aysenur-Erkin&style=flat-square&color=blue" alt="Profile views" />
   </a>
-  <a href="https://talkbytechtalk.blogspot.com/">
-    <img src="https://img.shields.io/badge/Blog-TechTalk-blue?logo=blogger&style=flat-square" alt="Blog Badge" />
+  <a href="https://medium.com/@bitsolaris">
+    <img src="https://img.shields.io/badge/Blog-BitSolaris-blue?logo=medium&style=flat-square" alt="Blog Badge" />
   </a>
   <a href="https://linkedin.com/in/ayşenur-erkin">
     <img src="https://img.shields.io/badge/LinkedIn-Ayşenur%20Erkin-blue?logo=linkedin&style=flat-square" alt="LinkedIn Badge" />
@@ -76,5 +76,5 @@
 
 ### 💬 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayşenur-erkin)
-[![Blog](https://img.shields.io/badge/Blog-TechTalk-ff69b4?style=for-the-badge)](https://talkbytechtalk.blogspot.com/)
+[![Blog](https://img.shields.io/badge/Blog-BitSolaris-ff69b4?style=for-the-badge)](https://medium.com/@bitsolaris)
 
