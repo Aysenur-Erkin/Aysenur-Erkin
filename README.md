@@ -19,7 +19,7 @@
 
 ### 👩‍💻 About Me
 - 🔭 Currently exploring **Image Processing & OpenCV**
-- ✍️ I share notes & tutorials on my [blog](https://talkbytechtalk.blogspot.com/)
+- ✍️ I share notes & tutorials on my [blog](https://medium.com/@bitsolaris)
 - 🌱 Next up: **FastAPI** & **Docker**
 
 ---
