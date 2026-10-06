@@ -37,22 +37,60 @@ from raw data to the interface someone actually operates.
 
 ### 🧁 &nbsp;Toolbox
 
-<sub><b>backend</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,python" height="40" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<sub><b>frontend</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=angular,ts,tailwind" height="40" />
+<sub><b>&nbsp;🎀&nbsp; backend</b></sub>
 
-<sub><b>vision</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=opencv,py,anaconda" height="40" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,mysql" height="38" />
 
-<sub><b>games</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=godot,unity" height="40" />
+</td>
+<td width="50%" valign="top">
 
-<sub><b>tools</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=git,docker,linux" height="40" />
+<sub><b>&nbsp;🎀&nbsp; frontend</b></sub>
 
-<br/>
+<img src="https://skillicons.dev/icons?i=angular,ts,tailwind,html" height="38" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub><b>&nbsp;🎀&nbsp; vision & ml</b></sub>
+
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn" height="38" />
+
+</td>
+<td width="50%" valign="top">
+
+<sub><b>&nbsp;🎀&nbsp; games</b></sub>
+
+<img src="https://skillicons.dev/icons?i=godot,unity" height="38" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub><b>&nbsp;🎀&nbsp; tools</b></sub>
+
+<img src="https://skillicons.dev/icons?i=git,docker,linux,figma" height="38" />
+
+</td>
+<td width="50%" valign="top">
+
+<sub><b>&nbsp;🎀&nbsp; also</b></sub>
+
+<img src="https://skillicons.dev/icons?i=js,firebase,mongodb" height="38" />
+
+</td>
+</tr>
+</table>
+
+<sub>numpy &nbsp;·&nbsp; scipy &nbsp;·&nbsp; pandas &nbsp;·&nbsp; yolo &nbsp;·&nbsp; camera calibration</sub>
+
+<br/><br/>
 
 ### 🫧 &nbsp;A few numbers
 
