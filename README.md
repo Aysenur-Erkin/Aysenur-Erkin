@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Quicksand&weight=700&size=30&duration=4000&pause=1200&color=C06C84&center=true&vCenter=true&width=460&height=55&lines=Hi%2C+I'm+Ay%C5%9Fenur+%F0%9F%8C%B8" alt="Hi, I'm Ayşenur" />
@@ -37,34 +38,34 @@ from raw data to the interface someone actually operates.
 
 ### 🧁 &nbsp;Toolbox
 
-<table>
+<table border="0">
 <tr>
 <td width="50%" valign="top">
 
-<b><sub>&nbsp;🎀&nbsp;</sub> backend</b>
+**<sub>&nbsp;🎀&nbsp;</sub> backend**
 
 <img src="https://skillicons.dev/icons?i=dotnet,cs,python,mysql" height="52" />
 
 </td>
 <td width="50%" valign="top">
 
-<b><sub>&nbsp;🎀&nbsp;</sub> frontend</b>
+**<sub>&nbsp;🎀&nbsp;</sub> frontend**
 
-<img src="https://skillicons.dev/icons?i=angular,ts,tailwind,html" height="52" />
+<img src="https://skillicons.dev/icons?i=angular,ts,tailwind" height="52" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<b><sub>&nbsp;🎀&nbsp;</sub> vision &amp; ml</b>
+**<sub>&nbsp;🎀&nbsp;</sub> vision &amp; ml**
 
 <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn" height="52" />
 
 </td>
 <td width="50%" valign="top">
 
-<b><sub>&nbsp;🎀&nbsp;</sub> games</b>
+**<sub>&nbsp;🎀&nbsp;</sub> games**
 
 <img src="https://skillicons.dev/icons?i=godot,unity" height="52" />
 
@@ -73,16 +74,16 @@ from raw data to the interface someone actually operates.
 <tr>
 <td width="50%" valign="top">
 
-<b><sub>&nbsp;🎀&nbsp;</sub> tools</b>
+**<sub>&nbsp;🎀&nbsp;</sub> tools**
 
-<img src="https://skillicons.dev/icons?i=git,docker,linux,figma" height="52" />
+<img src="https://skillicons.dev/icons?i=docker,linux,figma" height="52" />
 
 </td>
 <td width="50%" valign="top">
 
-<b><sub>&nbsp;🎀&nbsp;</sub> also</b>
+**<sub>&nbsp;🎀&nbsp;</sub> also**
 
-<img src="https://skillicons.dev/icons?i=js,firebase,mongodb" height="52" />
+<img src="https://skillicons.dev/icons?i=js,mongodb" height="52" />
 
 </td>
 </tr>
