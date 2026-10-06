@@ -1,75 +1,78 @@
-<!-- Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I’m%20Ayşenur%20👋;Image%20Processing%20Enthusiast;Always%20Learning%20🚀&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Quicksand&weight=600&size=26&duration=3000&pause=800&color=C06C84&center=true&vCenter=true&width=520&height=55&lines=Hi%2C+I'm+Ay%C5%9Fenur+%F0%9F%8C%B8;Backend+%26+Computer+Vision;Always+Learning+%E2%9C%A8" alt="header" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/Aysenur-Erkin">
-    <img src="https://komarev.com/ghpvc/?username=Aysenur-Erkin&style=flat-square&color=blue" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/aysenur-erkin">
+    <img src="https://img.shields.io/badge/LinkedIn-Ay%C5%9Fenur%20Erkin-C06C84?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@bitsolaris">
-    <img src="https://img.shields.io/badge/Blog-BitSolaris-blue?logo=medium&style=flat-square" alt="Blog Badge" />
+    <img src="https://img.shields.io/badge/Blog-BitSolaris-F67280?style=flat-square&logo=medium&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ayşenur-erkin">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayşenur%20Erkin-blue?logo=linkedin&style=flat-square" alt="LinkedIn Badge" />
+  <a href="mailto:aysenurerkin8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-F8B195?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Aysenur-Erkin&style=flat-square&color=C06C84" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
-- 🔭 Currently exploring **Image Processing & OpenCV**
-- ✍️ I share notes & tutorials on my [blog](https://medium.com/@bitsolaris)
-- 🌱 Next up: **FastAPI** & **Docker**
+### 🌷 About Me
+
+I build software that sits between hardware and the user — from camera
+calibration and real-time sensor data to the interface someone actually operates.
+
+- 💼 Industry experience in laser-based measurement systems (Python, OpenCV)
+  and web platforms (.NET, Angular)
+- 🔭 Currently working on **computer vision** and **backend development**
+- ✍️ I write about what I learn on [BitSolaris](https://medium.com/@bitsolaris)
+- 🌱 Next up: **FastAPI**, **Docker**
 
 ---
 
-### 🛠 Core Tech
+### 🛠️ Tech Stack
+
+**Backend**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3677A9?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Computer Vision**
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 <details>
-<summary>🧩 Other Tools</summary>
+<summary>🧩 Also worked with</summary>
 
-<!-- Languages & Frameworks -->
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+<br/>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-<!-- Web & Mobile -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-<!-- Databases -->
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-<!-- Tools & Platforms -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </details>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
+
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Aysenur-Erkin&show_icons=true&theme=default&hide_border=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysenur-Erkin&layout=compact&hide_border=true" />
+  <img height="155px" src="https://github-readme-stats.vercel.app/api?username=Aysenur-Erkin&show_icons=true&hide_border=true&title_color=C06C84&icon_color=F67280&text_color=555555&bg_color=ffffff" />
+  <img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aysenur-Erkin&layout=compact&hide_border=true&title_color=C06C84&text_color=555555&bg_color=ffffff" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aysenur-Erkin&hide_border=true" />
-</p>
-
----
-
-### 💬 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayşenur-erkin)
-[![Blog](https://img.shields.io/badge/Blog-BitSolaris-ff69b4?style=for-the-badge)](https://medium.com/@bitsolaris)
-
