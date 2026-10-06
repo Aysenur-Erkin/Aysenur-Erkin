@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Quicksand&weight=700&size=30&duration=4000&pause=1200&color=C06C84&center=true&vCenter=true&width=460&height=55&lines=Hi%2C+I'm+Ay%C5%9Fenur+%F0%9F%8C%B8" alt="Hi, I'm Ayşenur" />
@@ -38,56 +37,23 @@ from raw data to the interface someone actually operates.
 
 ### 🧁 &nbsp;Toolbox
 
-<table border="0">
-<tr>
-<td width="50%" valign="top">
+**<sub>🎀</sub> backend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<sub>🎀</sub> frontend**
 
-**<sub>&nbsp;🎀&nbsp;</sub> backend**
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,mysql" height="52" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=angular,ts,tailwind" height="52" />
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,python,mysql" height="52" />
+<br/>
 
-</td>
-<td width="50%" valign="top">
+**<sub>🎀</sub> vision &amp; ml** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<sub>🎀</sub> games**
 
-**<sub>&nbsp;🎀&nbsp;</sub> frontend**
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn" height="52" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=godot,unity" height="52" />
 
-<img src="https://skillicons.dev/icons?i=angular,ts,tailwind" height="52" />
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**<sub>🎀</sub> tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **<sub>🎀</sub> also**
 
-**<sub>&nbsp;🎀&nbsp;</sub> vision &amp; ml**
+<img src="https://skillicons.dev/icons?i=docker,linux,figma" height="52" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js,mongodb" height="52" />
 
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn" height="52" />
-
-</td>
-<td width="50%" valign="top">
-
-**<sub>&nbsp;🎀&nbsp;</sub> games**
-
-<img src="https://skillicons.dev/icons?i=godot,unity" height="52" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**<sub>&nbsp;🎀&nbsp;</sub> tools**
-
-<img src="https://skillicons.dev/icons?i=docker,linux,figma" height="52" />
-
-</td>
-<td width="50%" valign="top">
-
-**<sub>&nbsp;🎀&nbsp;</sub> also**
-
-<img src="https://skillicons.dev/icons?i=js,mongodb" height="52" />
-
-</td>
-</tr>
-</table>
+<br/>
 
 <sub>numpy &nbsp;·&nbsp; scipy &nbsp;·&nbsp; pandas &nbsp;·&nbsp; yolo &nbsp;·&nbsp; camera calibration</sub>
 
