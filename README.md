@@ -41,48 +41,48 @@ from raw data to the interface someone actually operates.
 <tr>
 <td width="50%" valign="top">
 
-<sub><b>&nbsp;🎀&nbsp; backend</b></sub>
+<b><sub>&nbsp;🎀&nbsp;</sub> backend</b>
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,python,mysql" height="38" />
-
-</td>
-<td width="50%" valign="top">
-
-<sub><b>&nbsp;🎀&nbsp; frontend</b></sub>
-
-<img src="https://skillicons.dev/icons?i=angular,ts,tailwind,html" height="38" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<sub><b>&nbsp;🎀&nbsp; vision & ml</b></sub>
-
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn" height="38" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,mysql" height="52" />
 
 </td>
 <td width="50%" valign="top">
 
-<sub><b>&nbsp;🎀&nbsp; games</b></sub>
+<b><sub>&nbsp;🎀&nbsp;</sub> frontend</b>
 
-<img src="https://skillicons.dev/icons?i=godot,unity" height="38" />
+<img src="https://skillicons.dev/icons?i=angular,ts,tailwind,html" height="52" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<sub><b>&nbsp;🎀&nbsp; tools</b></sub>
+<b><sub>&nbsp;🎀&nbsp;</sub> vision &amp; ml</b>
 
-<img src="https://skillicons.dev/icons?i=git,docker,linux,figma" height="38" />
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn" height="52" />
 
 </td>
 <td width="50%" valign="top">
 
-<sub><b>&nbsp;🎀&nbsp; also</b></sub>
+<b><sub>&nbsp;🎀&nbsp;</sub> games</b>
 
-<img src="https://skillicons.dev/icons?i=js,firebase,mongodb" height="38" />
+<img src="https://skillicons.dev/icons?i=godot,unity" height="52" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<b><sub>&nbsp;🎀&nbsp;</sub> tools</b>
+
+<img src="https://skillicons.dev/icons?i=git,docker,linux,figma" height="52" />
+
+</td>
+<td width="50%" valign="top">
+
+<b><sub>&nbsp;🎀&nbsp;</sub> also</b>
+
+<img src="https://skillicons.dev/icons?i=js,firebase,mongodb" height="52" />
 
 </td>
 </tr>
