@@ -37,24 +37,20 @@ from raw data to the interface someone actually operates.
 
 ### 🧁 &nbsp;Toolbox
 
-<table>
-<tr>
-<td><sub><b>&nbsp;backend&nbsp;</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=dotnet,cs,python" height="42" /></td>
-</tr>
-<tr>
-<td><sub><b>&nbsp;frontend&nbsp;</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=angular,ts,tailwind" height="42" /></td>
-</tr>
-<tr>
-<td><sub><b>&nbsp;vision&nbsp;</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=opencv,py" height="42" /></td>
-</tr>
-<tr>
-<td><sub><b>&nbsp;tools&nbsp;</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=git,docker,linux" height="42" /></td>
-</tr>
-</table>
+<sub><b>backend</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python" height="40" />
+
+<sub><b>frontend</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=angular,ts,tailwind" height="40" />
+
+<sub><b>vision</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=opencv,py,anaconda" height="40" />
+
+<sub><b>games</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=godot,unity" height="40" />
+
+<sub><b>tools</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=git,docker,linux" height="40" />
 
 <br/>
 
