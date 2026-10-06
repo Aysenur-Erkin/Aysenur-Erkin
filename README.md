@@ -37,9 +37,24 @@ from raw data to the interface someone actually operates.
 
 ### 🧁 &nbsp;Toolbox
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,python,opencv,git,docker" />
-</p>
+<table>
+<tr>
+<td><sub><b>&nbsp;backend&nbsp;</b></sub></td>
+<td><img src="https://skillicons.dev/icons?i=dotnet,cs,python" height="42" /></td>
+</tr>
+<tr>
+<td><sub><b>&nbsp;frontend&nbsp;</b></sub></td>
+<td><img src="https://skillicons.dev/icons?i=angular,ts,tailwind" height="42" /></td>
+</tr>
+<tr>
+<td><sub><b>&nbsp;vision&nbsp;</b></sub></td>
+<td><img src="https://skillicons.dev/icons?i=opencv,py" height="42" /></td>
+</tr>
+<tr>
+<td><sub><b>&nbsp;tools&nbsp;</b></sub></td>
+<td><img src="https://skillicons.dev/icons?i=git,docker,linux" height="42" /></td>
+</tr>
+</table>
 
 <br/>
 
